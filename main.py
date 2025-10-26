@@ -2,7 +2,7 @@
 # https://www.youtube.com/watch?v=aFNDh5k3SjU&list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd&index=4
 # https://github.com/computervisioneng/color-detection-opencv/blob/master/requirements.txt
 
-# If you have issues with dependencies then do next
+# If you have issues with dependencies than do next
 # pip install --upgrade pip setuptools wheel
 # pip install --upgrade -r req.txt
 # pip install -r req.txt
